@@ -1,0 +1,7 @@
+   Một số lỗi gặp phải khi xây dựng chương trình :
+ + Hệ thống chưa được phân quyền.
++ Chưa load được dữ liệu từ bảng Gridview lên các textbox.
++ Chưa cài đặt theo mô hình 3 lớp.
++ Chức năng quản lí kho chưa được xây dựng.
++ Chưa thống kê tồn kho.
++ Một số chức năng chưa được xử lí ngoại lệ .
