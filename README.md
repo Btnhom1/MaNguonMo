@@ -1,4 +1,4 @@
-# baitaplona1
+# baitaplon
 Bài tập nhóm 
 Bài Tập lớn về phân mềm quản lí quán cà phê Hiên nay thì việc quản lí quán cà phê, nếu không có sự hỗ trợ của tin học thì việc quản lí quán nó cần rất nhiều nguôn nhân lực như: quản lí nhân viên, thủ quỹ, người quản lí kho...làm cho mọi thứ rất mất thời gian cũng như chi phí cho công việc sẽ bị tăng lên .vậy nên dưới những khó khăn đó nhóm em đã nghĩ ra phương án tạo một phần mền quản lí nhằm:
 
